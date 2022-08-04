@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 Currently learning flutter<br>📱 Mobile app development enthusiast
+📚 Currently learning flutter<br>📱 Mobile app development enthusiast<br>
 👥 Pronouns: 🐐/🐐
 
 
