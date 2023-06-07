@@ -1,8 +1,6 @@
 <h1 align="center">Selam 👋 I'm Beamlak</h1>
 <h3 align="center">A mobile app developer from Ethiopia 🇪🇹</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beamlakaschalew" alt="beamlakaschalew" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/beamlakaschalew" target="blank"><img src="https://img.shields.io/twitter/follow/beamlakaschalew?logo=twitter&style=for-the-badge" alt="beamlakaschalew" /></a> </p>
 
 
