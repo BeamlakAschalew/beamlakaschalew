@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/beamlakaschalew" target="blank"><img src="https://img.shields.io/twitter/follow/beamlakaschalew?logo=twitter&style=for-the-badge" alt="beamlakaschalew" /></a> </p>
 
-- 🔭 I’m currently working on [Cinemax](github.com/beamlakaschalew/cinemax)
+- 🔭 I’m currently working on [Cinemax]
 
 - 🌱 I’m currently learning **C++ and advanced Flutter**
 
 - 👯 I’m looking to collaborate on **Flutter projects**
 
-- 👨‍💻 All of my projects are available at [beamlak.dev](beamlak.dev)
+- 👨‍💻 All of my projects are available at [beamlak.dev]
 
 - 📫 How to reach me **selam@beamlak.dev**
 
