@@ -5,17 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/beamlakaschalew" target="blank"><img src="https://img.shields.io/twitter/follow/beamlakaschalew?logo=twitter&style=for-the-badge" alt="beamlakaschalew" /></a> </p>
 
-- 🔭 I’m currently working on <a src="github.com/BeamlakAschalew/cinemax">Cinemax</a>
-
-- 🌱 I’m currently learning **C++ and advanced Flutter**
-
-- 👯 I’m looking to collaborate on **Flutter projects**
-
-- 👨‍💻 All of my projects are available at <a src="beamlak.dev">beamlak.dev</a>
-
-- 📫 How to reach me **selam@beamlak.dev**
-
-- ⚡ Fun fact **I watched "The Office" 6 times.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
