@@ -1,5 +1,5 @@
 <h1 align="center">Selam 👋, I'm Beamlak</h1>
-<h3 align="center"Mobile app developer and backend engineer from Ethiopia</h3>
+<h3 align="center">Mobile app developer and backend engineer from Ethiopia</h3>
 
 <p align="left"> <a href="https://twitter.com/beamlakaschalew" target="blank"><img src="https://img.shields.io/twitter/follow/beamlakaschalew?logo=twitter&style=for-the-badge" alt="beamlakaschalew" /></a> </p>
 
