@@ -13,7 +13,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,laravel,vue,tailwind,ts,mysql,flutter,dart,git,postman,redis,linux,sqlite,nodejs,express)](https://skillicons.dev)
+  <a href="https://beamlak.dev/">
+<img src="https://skillicons.dev/icons?i=html,css,js,laravel,vue,tailwind,ts,mysql,flutter,dart,git,postman,redis,linux,sqlite,nodejs,express" />
+  </a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beamlakaschalew&show_icons=true&locale=en&layout=compact" alt="beamlakaschalew" /></p>
 
