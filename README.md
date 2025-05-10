@@ -1,5 +1,5 @@
 <h1 align="center">Selam 👋, I'm Beamlak Aschalew</h1>
-<h3 align="center">Mobile app developer and backend engineer from Ethiopia</h3>
+<h3 align="center">Web and mobile app engineer from Ethiopia</h3>
 
 - 👨‍💻 All of my projects are available at [https://beamlak.dev](https://beamlak.dev)
 
