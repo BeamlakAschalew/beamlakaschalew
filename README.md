@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://beamlak.dev](https://beamlak.dev)
 
-- 📫 How to reach me **hi@beamlak.dev**
+- 📫 How to reach me **hi@beamlak.dev** or **beamlakaschalew.19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
